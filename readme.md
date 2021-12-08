@@ -4,4 +4,4 @@ data: 2021-12-08
 description: symtem to learn git
 
 git init my_project
-
+git log --all --online --graph -n 20
