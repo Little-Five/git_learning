@@ -5,5 +5,3 @@ description: symtem to learn git
 
 git init my_project
 
-git add u --> only add trace file
-
