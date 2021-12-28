@@ -4,6 +4,7 @@ data: 2021-12-08
 description: system to learn git
 
 git init my_project
+git log --reflog
 
 git config --local user.name kieren
 
