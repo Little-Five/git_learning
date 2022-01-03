@@ -14,3 +14,7 @@ git add ./u
 git commit -am "msg"
 
 git log --oneline --all --graph --name-only -n3
+
+git stash list/pop/apply
+
+git remote
