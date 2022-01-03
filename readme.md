@@ -20,4 +20,4 @@ git stash list/pop/apply
 git remote add/list
 git remote list/add <remote_path>
 
-git fetch <remote_name>
+git fetch <remote_name>/--all
