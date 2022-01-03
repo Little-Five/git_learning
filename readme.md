@@ -17,4 +17,4 @@ git log --oneline --all --graph --name-only -n3
 
 git stash list/pop/apply
 
-git remote
+git remote add/list
